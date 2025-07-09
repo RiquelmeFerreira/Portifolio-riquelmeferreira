@@ -340,7 +340,7 @@ footer .line-footer p a{
         flex-direction: column-reverse;
     }
      /*Cabeçalho*/
-   .meu-desktop{
+   nav{
     display: none;
    }
    /*TOPO DO SITE*/
