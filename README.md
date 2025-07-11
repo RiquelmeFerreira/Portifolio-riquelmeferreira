@@ -1,2 +1,3 @@
 # Projetos-Estudos
 Projetos e Estudos de tecnologia
+Aprendendo a usar o git, github, repositórios...
