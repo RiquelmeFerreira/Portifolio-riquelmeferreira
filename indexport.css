@@ -68,7 +68,6 @@ img.logo{
    width: 170px;
    height: 170px;
 }
-
 section.topo-do-site{
      padding: 40px 4%;
 }
@@ -340,7 +339,7 @@ footer .line-footer p a{
         flex-direction: column-reverse;
     }
      /*Cabeçalho*/
-   nav{
+.mm{
     display: none;
    }
    /*TOPO DO SITE*/
@@ -349,6 +348,7 @@ footer .line-footer p a{
     line-height: 40px;
     margin: 20px;
     }
+
 section.topo-do-site{
         padding: 40px 8%
 }
